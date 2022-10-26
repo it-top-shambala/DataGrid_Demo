@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGrid_Demo.App", "DataGrid_Demo.App\DataGrid_Demo.App.csproj", "{A990A4F9-EC1C-4CFB-AE01-DAA612872A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGrid_Demo.DB", "DataGrid_Demo.DB\DataGrid_Demo.DB.csproj", "{8D6B5799-4B31-4CCD-A054-A1AFFE455DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A990A4F9-EC1C-4CFB-AE01-DAA612872A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A990A4F9-EC1C-4CFB-AE01-DAA612872A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A990A4F9-EC1C-4CFB-AE01-DAA612872A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A990A4F9-EC1C-4CFB-AE01-DAA612872A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6B5799-4B31-4CCD-A054-A1AFFE455DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6B5799-4B31-4CCD-A054-A1AFFE455DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6B5799-4B31-4CCD-A054-A1AFFE455DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6B5799-4B31-4CCD-A054-A1AFFE455DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
